@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Spooky</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  </head>
+  <body>
+    <div id="textgoeshere"></div>
+  </body>
+</html>
