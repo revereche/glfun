@@ -15,7 +15,7 @@ app.post('/', function (req, res) {
 
 app.get('/loser', function (req, res) {
     console.log("I'm firing..");
-    res.send("<em>hellooo</em>");
+    res.send("<em>dfssfo</em>");
 })
 
 app.listen(app.get('port'), function() {
